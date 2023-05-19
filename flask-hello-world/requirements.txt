@@ -1,2 +1,5 @@
 Flask
 Gunicorn
+psycopg2
+sqlalchemy
+pandas
